@@ -3,6 +3,7 @@ const comment = './icon/comment.svg';
 const download = './icon/download.svg';
 const like = './icon/like.svg';
 const retweet = './icon/retweet.svg';
+
 import './cards.css';
 const img1 = "https://parade.com/.image/t_share/MTk1NjEyNDIwNDA2NzgxMzI1/star-wars-trivia-yoda.jpg";
 const img2 = "https://phantom-marca.unidadeditorial.es/3188028f64220b012d208dabe8da7119/resize/1320/f/jpg/assets/multimedia/imagenes/2023/02/01/16752725794661.png";
@@ -26,7 +27,7 @@ const Cards = ({ author, date, content, fotos }) => {
       </div>
       <div className="info-ray">
         <p className="info-ray-text">{content}</p>
-        <img src={fotos} alt="Rey" className="img-rey" />
+        <img src={fotos} alt="Rey" className="img-rey"/>
       </div>
       <div className="footer">
         <div className="footer-block-info">
