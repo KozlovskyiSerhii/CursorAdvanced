@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
-import comment from './icon/comment.svg';
-import download from './icon/download.svg';
-import like from './icon/like.svg';
-import retweet from './icon/retweet.svg';
 import './cards.css';
+const comment = 'https://img.icons8.com/?size=1x&id=143&format=png';
+const download = 'https://img.icons8.com/?size=1x&id=20FjgTazh8FG&format=png';
+const like = 'https://img.icons8.com/?size=1x&id=24816&format=png';
+const retweet = 'https://img.icons8.com/?size=1x&id=437&format=png';
+
+
 const img1 = "https://parade.com/.image/t_share/MTk1NjEyNDIwNDA2NzgxMzI1/star-wars-trivia-yoda.jpg";
 const img2 = "https://phantom-marca.unidadeditorial.es/3188028f64220b012d208dabe8da7119/resize/1320/f/jpg/assets/multimedia/imagenes/2023/02/01/16752725794661.png";
 const img3 = "https://static.giga.de/wp-content/uploads/2019/05/star-wars-darth-vader-rcm1600x1200u.jpg";
