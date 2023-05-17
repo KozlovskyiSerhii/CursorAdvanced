@@ -4,10 +4,10 @@ import download from './icon/download.svg';
 import like from './icon/like.svg';
 import retweet from './icon/retweet.svg';
 import './cards.css';
-import img1 from './img/four.jpg';
-import img2 from './img/two.jpg';
-import img3 from './img/one.jpg';
-import img4 from './img/three.jpg';
+const img1 = "https://parade.com/.image/t_share/MTk1NjEyNDIwNDA2NzgxMzI1/star-wars-trivia-yoda.jpg";
+const img2 = "https://phantom-marca.unidadeditorial.es/3188028f64220b012d208dabe8da7119/resize/1320/f/jpg/assets/multimedia/imagenes/2023/02/01/16752725794661.png";
+const img3 = "https://static.giga.de/wp-content/uploads/2019/05/star-wars-darth-vader-rcm1600x1200u.jpg";
+const img4 = "https://hips.hearstapps.com/hmg-prod/images/starwars-1603920431.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*";
 
 const Cards = ({ author, date, content, fotos }) => {
   const [count, setCount] = useState(157);

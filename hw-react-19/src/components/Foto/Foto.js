@@ -1,47 +1,40 @@
 import React from 'react';
-import image1 from './img/1.jpg';
-import image2 from './img/2.webp';
-import image3 from './img/3.jpg';
-import image4 from './img/4.jpg';
-import image5 from './img/5.jpg';
-import image6 from './img/6.webp';
-import image7 from './img/7.jpg';
-import image8 from './img/8.webp';
+
 import './foto.css'
 
 const PhotoPage = () => {
    const photos = [
       {
          id: 1,
-         imageUrl: image1,
+         imageUrl: "https://w7.pngwing.com/pngs/569/958/png-transparent-superman-superman-dc-rebirth-dc-comics-the-new-52-comic-book-superman-comics-heroes-superhero-thumbnail.png",
       },
       {
          id: 2,
-         imageUrl: image2,
+         imageUrl: "https://oyster.ignimgs.com/wordpress/stg.ign.com/2013/11/05-Dick-Grayson.jpg",
       },
       {
          id: 3,
-         imageUrl: image3,
+         imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8tQxelafe1-sOB-W2hoU31ZvqQG7jS9G2g&usqp=CAU",
       },
       {
          id: 4,
-         imageUrl: image4,
+         imageUrl: "https://i.insider.com/54c2732deab8ea0f5b9e2904?width=1136&format=jpeg",
       },
       {
          id: 5,
-         imageUrl: image5,
+         imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqTfwkrTrIDDAFX93mDLEp-tgDuPCYA83mUmD76DuAI5C_vPqcD_PPneUqF8IrArAlgQ&usqp=CAU",
       },
       {
          id: 6,
-         imageUrl: image6,
+         imageUrl: "https://www.writeups.org/wp-content/uploads/Karate-Kid-DC-Comics-Post-Reboot-LSH-Legion-Super-Heroes.jpg",
       },
       {
          id: 7,
-         imageUrl: image7,
+         imageUrl: "https://shop.capstonepub.com/assets/1/14/DimRegular/9781515878056.jpg",
       },
       {
          id: 8,
-         imageUrl: image8,
+         imageUrl: "https://i.insider.com/589bfcac8275e81e008b4a82?width=1000&format=jpeg&auto=webp",
       },
    ];
 
