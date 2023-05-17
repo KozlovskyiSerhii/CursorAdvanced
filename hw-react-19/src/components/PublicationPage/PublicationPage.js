@@ -16,7 +16,7 @@ const Cards = ({ author, date, content, fotos }) => {
     setCount(count + 1);
   };
 
-  return (
+   return (
     <div className="cards">
       <div className="header">
         <img src={author.photo} alt="Author" className="header-img" />
