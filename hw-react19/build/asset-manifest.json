@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9935c85f.css",
+    "main.js": "./static/js/main.f9dfb543.js",
+    "static/media/intersex.svg": "./static/media/intersex.19b9580bd224d078899f20e8b3655b06.svg",
+    "static/media/male.svg": "./static/media/male.110b478f4cb4ae7b7c8b3cb991a34fcd.svg",
+    "index.html": "./index.html",
+    "static/media/female.svg": "./static/media/female.ec886084fb4a2088ca181ec8b3103037.svg",
+    "main.9935c85f.css.map": "./static/css/main.9935c85f.css.map",
+    "main.f9dfb543.js.map": "./static/js/main.f9dfb543.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9935c85f.css",
+    "static/js/main.f9dfb543.js"
+  ]
+}
