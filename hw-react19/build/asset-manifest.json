@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.cb30a03a.css",
-    "main.js": "./static/js/main.21b53657.js",
-    "static/media/comment.svg": "./static/media/comment.839eaa321035ffbd5a5653cc7af4ede0.svg",
+    "main.css": "./static/css/main.bc5b6d2c.css",
+    "main.js": "./static/js/main.f9dfb543.js",
     "static/media/intersex.svg": "./static/media/intersex.19b9580bd224d078899f20e8b3655b06.svg",
     "static/media/male.svg": "./static/media/male.110b478f4cb4ae7b7c8b3cb991a34fcd.svg",
-    "static/media/retweet.svg": "./static/media/retweet.f2244380cb92339a3c5ce7140e9ed791.svg",
-    "static/media/like.svg": "./static/media/like.f9c5de0db6cec03065ab1758fd85ebdd.svg",
-    "static/media/download.svg": "./static/media/download.a80ea83bcafd5aacc8780de71651bf62.svg",
     "index.html": "./index.html",
     "static/media/female.svg": "./static/media/female.ec886084fb4a2088ca181ec8b3103037.svg",
-    "main.cb30a03a.css.map": "./static/css/main.cb30a03a.css.map",
-    "main.21b53657.js.map": "./static/js/main.21b53657.js.map"
+    "main.bc5b6d2c.css.map": "./static/css/main.bc5b6d2c.css.map",
+    "main.f9dfb543.js.map": "./static/js/main.f9dfb543.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb30a03a.css",
-    "static/js/main.21b53657.js"
+    "static/css/main.bc5b6d2c.css",
+    "static/js/main.f9dfb543.js"
   ]
 }
